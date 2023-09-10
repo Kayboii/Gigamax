@@ -1,0 +1,16 @@
+#gigamax{
+    font-size: 40px;
+    font-family: fantasy;
+    color: #7966d3e0;
+}
+#im{
+    border-radius: 1000px;
+    
+}
+body{
+    background: url(./background.png);
+}
+#vid{
+    border-radius: 50px;
+    width: 1000px;
+}
